@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MeuPonto/static/css/main.385d48aa.chunk.css",
+    "main.js": "/MeuPonto/static/js/main.b7a9896f.chunk.js",
+    "main.js.map": "/MeuPonto/static/js/main.b7a9896f.chunk.js.map",
+    "runtime-main.js": "/MeuPonto/static/js/runtime-main.5df449b7.js",
+    "runtime-main.js.map": "/MeuPonto/static/js/runtime-main.5df449b7.js.map",
+    "static/js/2.d752ca4a.chunk.js": "/MeuPonto/static/js/2.d752ca4a.chunk.js",
+    "static/js/2.d752ca4a.chunk.js.map": "/MeuPonto/static/js/2.d752ca4a.chunk.js.map",
+    "index.html": "/MeuPonto/index.html",
+    "precache-manifest.23d75ce8dffc058907fa06f6ec467cbe.js": "/MeuPonto/precache-manifest.23d75ce8dffc058907fa06f6ec467cbe.js",
+    "service-worker.js": "/MeuPonto/service-worker.js",
+    "static/css/main.385d48aa.chunk.css.map": "/MeuPonto/static/css/main.385d48aa.chunk.css.map",
+    "static/js/2.d752ca4a.chunk.js.LICENSE.txt": "/MeuPonto/static/js/2.d752ca4a.chunk.js.LICENSE.txt",
+    "static/media/LogoMeuPonto.png": "/MeuPonto/static/media/LogoMeuPonto.5f52fec5.png",
+    "static/media/accept-green-icon.png": "/MeuPonto/static/media/accept-green-icon.eff9bb25.png",
+    "static/media/Login.css": "/MeuPonto/static/media/background-login.0354216e.png",
+    "static/media/decline-user-darkred-icon.png": "/MeuPonto/static/media/decline-user-darkred-icon.6a270799.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5df449b7.js",
+    "static/js/2.d752ca4a.chunk.js",
+    "static/css/main.385d48aa.chunk.css",
+    "static/js/main.b7a9896f.chunk.js"
+  ]
+}
